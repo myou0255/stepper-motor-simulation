@@ -9,7 +9,7 @@ stepper محاكاة محرك
  
   رابعًا نبحث عن L293D IC و نضيفه للوح  
  
- <img scr=![image](https://user-images.githubusercontent.com/108413904/177120542-41c1cc82-ac93-4676-9e88-052cca1accba.png)> 
+ <img scr= https://user-images.githubusercontent.com/108413904/177120542-41c1cc82-ac93-4676-9e88-052cca1accba.png > 
  
 الان نبحث عن  motor with encoder و نوصله مع L293D IC على اللوح 
 
